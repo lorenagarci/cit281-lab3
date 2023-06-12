@@ -1,3 +1,5 @@
+# Lab 3
+<p style="background-color: #ff9966">
 In order to enhance my JavaScript skills this lab allowed me to practice refactoring code to incorporate more modern syntax. 
 I was able to familiarize myself with concepts such as destructuring an object, converting traditional functions into arrow function expressions, and exploring the usage of the for..in syntax with objects. 
 
